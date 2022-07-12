@@ -7,6 +7,8 @@
 
 修改`src/common/etherscan.js`中的`ApiKey`为`etherscan`的apikey
 
+点击节点之后会递归查询该节点的交易记录
+
 ## TODO
 
 - [ ] trc20暂时有点小bug，如果是token查询出来的地址不准确
