@@ -2,8 +2,12 @@
 # BlockChainMap
 
 > 这只是一个demo，并不完善，验证一下思路
+## 演示视频
 
-[视频演示](https://www.bilibili.com/video/bv1hT411g7GU)
+[![](/images/2022-07-12_18-45.png)](https://www.bilibili.com/video/bv1hT411g7GU)
+
+
+## 说明
 
 基于roc-charts做的图表
 
