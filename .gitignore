@@ -1,0 +1,14 @@
+/node_modules
+/build
+/lib
+/dist
+/bin/*.log
+/.idea
+/.settings
+/*.log
+*.iml
+*.project
+.DS_STORE
+package-lock.json
+/package-lock.json
+docs/.vuepress/dist
